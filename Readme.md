@@ -1,0 +1,2 @@
+Repositório de Estudos em Inteligência Artificial e Ciências de Dados
+Este repositório reúne conteúdos de estudos sobre IA e Ciência de Dados, organizados do básico ao avançado. Ele inclui anotações, códigos de exemplo, resumos e materiais teóricos que acompanham minha jornada de aprendizado, cobrindo desde os conceitos iniciais até tópicos mais avançados dessas áreas.
